@@ -8,7 +8,7 @@ describe("Iteration 3", () => {
             expect(calculateArea).toBeDefined();
         });
 
-        it("should take two arguments", () => {
+    it("should take two arguments", () => {
             expect(calculateArea.length).toBe(2);
         });
 
